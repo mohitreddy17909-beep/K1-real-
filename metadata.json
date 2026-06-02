@@ -1,0 +1,6 @@
+{
+  "name": "K1 Real Estate Marketing",
+  "description": "Hyper-3D interactive real estate landing page for Guntur premium properties, featuring dynamic floating components and spatial metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
